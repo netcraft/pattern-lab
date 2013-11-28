@@ -1,5 +1,5 @@
 
-## Instructions: 
+## INSTRUCTIONS
 
 1. git clone https://github.com/netcraft/pattern-lab your-project-name
 2. [install php](http://ask.amoeba.co.in/installingsetting-up-php-on-windows-7-with-iis7-and-php-manager/) // fun
