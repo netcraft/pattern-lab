@@ -2,7 +2,7 @@
 ## Instructions: 
 
 1. git clone https://github.com/netcraft/pattern-lab your-project-name
-2. * [install php](http://ask.amoeba.co.in/installingsetting-up-php-on-windows-7-with-iis7-and-php-manager/) // fun
+2. [install php](http://ask.amoeba.co.in/installingsetting-up-php-on-windows-7-with-iis7-and-php-manager/) // fun
 3. add php to your path :
 	Right-click on a My Computer icon
 	Click Properties
@@ -15,9 +15,10 @@
 	
 4. explore, work and make your changes inside the source directory 
 5. in order to build run the following inside the command line: php builder/builder.php -g 
-6. read the other available * [command line options](http://pattern-lab.info/docs/command-line.html) 
+6. read the other available [command line options](http://pattern-lab.info/docs/command-line.html) 
 7. to create a github page run: git branch gh-pages
 8. than push only the public directory to that brunch by running: git subtree push --prefix public origin gh-pages
+9. visit your app/site on http://netcraft.github.io/your-project-name
 
 
 ## About the PHP Version of Pattern Lab
